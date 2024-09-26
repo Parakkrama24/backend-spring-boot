@@ -9,5 +9,5 @@ public class ZoshFoodApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ZoshFoodApplication.class, args);
 	}
-//test comment 
+//test comment
 }
