@@ -1,4 +1,4 @@
-# Zosh Food
+# Daily Food
 
 1. **User:**
     - ID (Auto-generated)
